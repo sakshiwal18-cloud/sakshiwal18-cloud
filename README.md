@@ -1,24 +1,103 @@
-# 💫 About Me:
-🚀 AI Engineer | Software Engineer | Python | LLM & ML Systems<br><br>I’m a Master’s student in Web Engineering at TU Chemnitz, with 2+ years of experience in software engineering and automation, now focused on building AI-driven systems using Python, machine learning, and LLM-based applications.<br><br>I’m passionate about developing intelligent solutions — from data-driven systems to LLM-powered applications such as chatbots, retrieval-augmented generation (RAG) pipelines, and automation agents.<br><br>With a strong foundation in debugging, backend systems, and performance optimization, I bring an engineering-first approach to AI — building scalable, reliable, and production-ready AI solutions.<br>
+## 👩‍💻 Hi, I'm Sakshi Walzade   
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-walzade/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sakshi Walzade) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshiwal18@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sakshiwal18-cloud&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sakshiwal18-cloud&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshiwal18-cloud&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sakshiwal18-cloud&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sakshiwal18-cloud&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🚀  AI Engineer | Software Engineer | Python | LLM & ML Systems**  
+🎓  MSc Web Engineering @ TU Chemnitz
+📍  Germany  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sakshiwal18-cloud&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+I’m a Master’s student in Web Engineering at TU Chemnitz, with 2+ years of experience in software engineering and automation, now focused on building AI-driven systems using Python, machine learning, and LLM-based applications.
+
+I’m passionate about developing intelligent solutions  from data-driven systems to LLM-powered applications such as chatbots, retrieval-augmented generation (RAG) pipelines, and automation agents.
+
+With a strong foundation in debugging, backend systems, and performance optimization, I bring an engineering-first approach to AI building scalable, reliable, and production-ready AI solutions.
+
+---
+
+## 🧠 Areas of Interest
+
+- Machine Learning & Deep Learning  
+- LLM Applications & Prompt Engineering  
+- Retrieval-Augmented Generation (RAG)  
+- AI Automation & Intelligent Workflows  
+- Data Processing & Feature Engineering  
+- Backend Integration for AI Systems  
+
+---
+## 💻 Tech Stack
+
+### Languages
+`Java` `Python` `C++` `JavaScript` `TypeScript` `HTML` `CSS` `SQL` `Bash`
+
+---
+
+### AI & Machine Learning
+`Machine Learning` `Deep Learning` `LLMs` `RAG` `LangChain` `OpenAI APIs` `Scikit-learn` `PyTorch` `TensorFlow` `Pandas` `NumPy` `Matplotlib`
+
+---
+
+### Backend & MLOps
+`Spring Boot` `Node.js` `REST API` `Docker` `Jenkins` `Git` `GitHub`
+
+---
+
+### Databases
+`MySQL` `MongoDB` `SQLite`
+
+---
+
+### Testing & Automation
+`Selenium WebDriver` `Playwright` `Postman` `JMeter`
+
+---
+### DevOps & Tools  
+`Jenkins`  `Git`  `GitHub`  `TestRail`  `Jira Docker`  
+
+---
+### Technologies  
+`Agile Methodology` `Scrum`  `Microsoft Office` 
+
+
+
+---
+## 💼 Professional Experience
+
+### Senior Associate Software Engineer  
+**Light & Wonder | Pune, India**  
+*Sep 2023 – Sep 2025*  
+
+- Built and optimized automation frameworks for scalable systems  
+- Developed API validation workflows and backend testing pipelines  
+- Integrated automation into Jenkins pipelines, reducing manual effort by 30%  
+- Performed root cause analysis and debugging for high-priority issues  
+- Collaborated in Agile teams to deliver stable production systems  
+
+---
+
+### Software QA Intern  
+**Light & Wonder | Pune, India**  
+*Jan 2023 – Jun 2023*  
+
+- Automated API testing and validation workflows  
+- Worked with SQL for backend data validation  
+- Ensured system reliability and data integrity  
+
+---
+
+## 🎓 Education
+
+**M.Sc. Web Engineering**  
+Technische Universität Chemnitz, Germany  
+*2025 – Present*  
+
+**B.Tech Computer Engineering**  
+Savitribai Phule Pune University, India  
+Grade: 9.3 / 10  
+
+---
+## 📚 Research & Publications 
+
+📄 802.11 Wireless Standard for Wi-Fi (IEEE)
+
