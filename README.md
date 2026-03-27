@@ -1,7 +1,7 @@
 ## 👩‍💻 Hi, I'm Sakshi Walzade   
 
-🚀  AI Engineer | Software Engineer | Python | LLM & ML Systems**  
 🎓  MSc Web Engineering @ TU Chemnitz
+
 📍  Germany  
 
 ---
